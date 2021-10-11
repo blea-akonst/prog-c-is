@@ -1,2 +1,1 @@
-# prog-c-is
-C programming language labs, 1st grade
+# Лабораторные работы по программированию, 1 семестр
